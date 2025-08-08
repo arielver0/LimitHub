@@ -1,3 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7teenscripts/loadingscrn/refs/heads/main/lua"))()
--- For Mobile Copy:
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/wfDx8QhkjE3qSql1/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/1Oygfg5T/raw"))()
